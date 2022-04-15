@@ -1,4 +1,4 @@
-# Kind Installation Shell Script
+# Minikube Installation Shell Script
 
 This repository contains the following files
 
